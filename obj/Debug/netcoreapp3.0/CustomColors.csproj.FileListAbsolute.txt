@@ -1,0 +1,11 @@
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\bin\Debug\netcoreapp3.0\CustomColors.exe
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\bin\Debug\netcoreapp3.0\CustomColors.deps.json
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\bin\Debug\netcoreapp3.0\CustomColors.runtimeconfig.json
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\bin\Debug\netcoreapp3.0\CustomColors.runtimeconfig.dev.json
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\bin\Debug\netcoreapp3.0\CustomColors.dll
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\bin\Debug\netcoreapp3.0\CustomColors.pdb
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\obj\Debug\netcoreapp3.0\CustomColors.csprojAssemblyReference.cache
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\obj\Debug\netcoreapp3.0\CustomColors.AssemblyInfoInputs.cache
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\obj\Debug\netcoreapp3.0\CustomColors.AssemblyInfo.cs
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\obj\Debug\netcoreapp3.0\CustomColors.dll
+C:\Users\OWNER\workspace\CSharpPrac\CustomColors\obj\Debug\netcoreapp3.0\CustomColors.pdb
